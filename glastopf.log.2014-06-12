@@ -1,0 +1,53 @@
+2014-06-12 00:50:50,407 (glastopf.glastopf) 220.181.51.143 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-12 00:50:50,487 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 00:50:50,488 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 00:50:50,488 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 00:50:50,962 (pyhpfeeds) info message name: hpfriends, rand: '\x90\x92\x98\x93'
+2014-06-12 00:50:51,815 (glastopf.glastopf) 220.181.51.136 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-12 01:01:24,200 (glastopf.glastopf) 54.254.151.219 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-12 02:33:24,609 (glastopf.glastopf) 65.111.180.205 requested GET /w00tw00t.at.blackhats.romanian.anti-sec:%29 on ip-10-239-45-35.ec2.internal:80
+2014-06-12 02:33:24,649 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 02:33:24,649 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 02:33:24,649 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 02:33:24,742 (glastopf.glastopf) 65.111.180.205 requested GET /phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 02:33:24,833 (glastopf.glastopf) 65.111.180.205 requested GET /phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 02:33:25,128 (pyhpfeeds) info message name: hpfriends, rand: '\x15\x94\x0c\xcf'
+2014-06-12 02:33:30,501 (glastopf.glastopf) 65.111.180.205 requested GET /pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 02:33:30,683 (glastopf.glastopf) 65.111.180.205 requested GET /myadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 02:33:30,783 (glastopf.glastopf) 65.111.180.205 requested GET /MyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 06:36:48,333 (glastopf.glastopf) 95.167.110.237 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-12 06:36:48,375 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 06:36:48,376 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 06:36:48,376 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 06:36:48,828 (pyhpfeeds) info message name: hpfriends, rand: 'VI\xce\xab'
+2014-06-12 08:12:02,453 (glastopf.glastopf) 186.42.181.66 requested GET /w00tw00t.at.blackhats.romanian.anti-sec:%29 on ip-10-239-45-35.ec2.internal:80
+2014-06-12 08:12:02,503 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 08:12:02,504 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 08:12:02,504 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 08:12:02,778 (glastopf.glastopf) 186.42.181.66 requested GET /phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 08:12:02,963 (pyhpfeeds) info message name: hpfriends, rand: '\xdd3v\xa6'
+2014-06-12 08:12:03,105 (glastopf.glastopf) 186.42.181.66 requested GET /phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 08:12:03,480 (glastopf.glastopf) 190.95.232.234 requested GET /pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-12 09:18:34,881 (glastopf.glastopf) 198.133.224.185 requested GET /robots.txt on ip-10-239-45-35.ec2.internal:80
+2014-06-12 11:46:10,301 (glastopf.glastopf) 54.198.163.156 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-12 11:46:10,375 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 11:46:10,376 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 11:46:10,376 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 11:46:10,898 (pyhpfeeds) info message name: hpfriends, rand: '\xfb\xa3\xe0\x98'
+2014-06-12 13:04:19,773 (glastopf.glastopf) 173.244.206.19 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-12 13:04:19,852 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 13:04:19,852 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 13:04:19,852 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 13:04:20,406 (pyhpfeeds) info message name: hpfriends, rand: '\xdf\n\xd4\xdd'
+2014-06-12 17:15:01,136 (glastopf.glastopf) 220.181.51.146 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-12 17:15:01,189 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 17:15:01,189 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 17:15:01,189 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 17:15:01,838 (pyhpfeeds) info message name: hpfriends, rand: 'P>\xf0\xb9'
+2014-06-12 17:15:01,981 (glastopf.glastopf) 220.181.51.137 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-12 21:39:42,266 (glastopf.glastopf) 115.28.15.7 requested GET http://hotel.qunar.com/render/hoteldiv.jsp?&__jscallback=XQScript_4 on ip-10-239-45-35.ec2.internal:80
+2014-06-12 21:39:42,340 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-12 21:39:42,340 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-12 21:39:42,340 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-12 21:39:42,757 (pyhpfeeds) info message name: hpfriends, rand: '\x00\xda\xce\x8c'
+2014-06-12 21:59:31,284 (glastopf.glastopf) 217.31.48.30 requested HEAD /rom-0 on ip-10-239-45-35.ec2.internal:80

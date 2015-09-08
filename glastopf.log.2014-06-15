@@ -1,0 +1,43 @@
+2014-06-15 00:53:41,759 (glastopf.glastopf) 185.56.80.133 requested GET /cgi-bin/php on ip-10-239-45-35.ec2.internal:80
+2014-06-15 00:53:41,821 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-15 00:53:41,821 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-15 00:53:41,822 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-15 00:53:41,957 (glastopf.glastopf) 185.56.80.133 requested GET /cgi-bin/php5 on ip-10-239-45-35.ec2.internal:80
+2014-06-15 00:53:42,150 (glastopf.glastopf) 185.56.80.133 requested GET /cgi-bin/php-cgi on ip-10-239-45-35.ec2.internal:80
+2014-06-15 00:53:42,255 (pyhpfeeds) info message name: hpfriends, rand: 't\xdb\x84\xd3'
+2014-06-15 00:53:42,356 (glastopf.glastopf) 185.56.80.133 requested GET /cgi-bin/php.cgi on ip-10-239-45-35.ec2.internal:80
+2014-06-15 00:53:42,548 (glastopf.glastopf) 185.56.80.133 requested GET /cgi-bin/php4 on ip-10-239-45-35.ec2.internal:80
+2014-06-15 08:46:02,288 (glastopf.glastopf) 184.72.132.51 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-15 08:46:02,345 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-15 08:46:02,345 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-15 08:46:02,345 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-15 08:46:02,821 (pyhpfeeds) info message name: hpfriends, rand: '\x15P\x03\xa6'
+2014-06-15 13:18:50,083 (glastopf.glastopf) 76.164.197.92 requested GET /user/soapCaller.bs on ip-10-239-45-35.ec2.internal:80
+2014-06-15 13:18:50,171 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-15 13:18:50,172 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-15 13:18:50,172 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-15 13:18:50,664 (pyhpfeeds) info message name: hpfriends, rand: '\x9d~\xc6\xb4'
+2014-06-15 13:19:16,416 (glastopf.glastopf) 76.164.197.92 requested GET /user/soapCaller.bs on ip-10-239-45-35.ec2.internal:80
+2014-06-15 13:19:43,678 (glastopf.glastopf) 76.164.197.92 requested GET /user/soapCaller.bs on ip-10-239-45-35.ec2.internal:80
+2014-06-15 14:00:33,772 (glastopf.glastopf) 187.192.116.222 requested GET /phpTest/zologize/axa.php on ip-10-239-45-35.ec2.internal:80
+2014-06-15 15:44:49,198 (glastopf.glastopf) 193.146.132.42 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-15 15:44:49,267 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-15 15:44:49,268 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-15 15:44:49,268 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-15 15:44:49,885 (pyhpfeeds) info message name: hpfriends, rand: '2t#\xa5'
+2014-06-15 15:50:42,201 (glastopf.glastopf) 220.181.51.147 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-15 15:50:43,018 (glastopf.glastopf) 220.181.51.150 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-15 16:44:59,395 (glastopf.glastopf) 94.23.56.175 requested GET /wp-login.php on ip-10-239-45-35.ec2.internal:80
+2014-06-15 16:44:59,459 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-15 16:44:59,459 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-15 16:44:59,459 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-15 16:44:59,687 (glastopf.glastopf) 94.23.56.175 requested GET /blog/wp-login.php on ip-10-239-45-35.ec2.internal:80
+2014-06-15 16:44:59,992 (glastopf.glastopf) 94.23.56.175 requested GET /wp/wp-login.php on ip-10-239-45-35.ec2.internal:80
+2014-06-15 16:45:00,045 (pyhpfeeds) info message name: hpfriends, rand: '\xc2\xf9\x88\xc1'
+2014-06-15 16:45:00,332 (glastopf.glastopf) 94.23.56.175 requested GET /wordpress/wp-login.php on ip-10-239-45-35.ec2.internal:80
+2014-06-15 16:45:00,605 (glastopf.glastopf) 94.23.56.175 requested GET /journal/wp-login.php on ip-10-239-45-35.ec2.internal:80
+2014-06-15 22:49:21,108 (glastopf.glastopf) 66.85.140.110 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-15 22:49:21,160 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-15 22:49:21,160 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-15 22:49:21,160 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-15 22:49:21,808 (pyhpfeeds) info message name: hpfriends, rand: '=\xc8,\xd8'

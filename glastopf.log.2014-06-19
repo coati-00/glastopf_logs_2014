@@ -1,0 +1,41 @@
+2014-06-19 00:16:35,249 (glastopf.glastopf) 185.4.227.194 requested GET http://24x7-allrequestsallowed.com/?PHPSESSID=1rxsxtj500143VWMUVW_FAMFUAZ on ip-10-239-45-35.ec2.internal:80
+2014-06-19 00:16:35,325 (pyhpfeeds) Socket error: [Errno 32] Broken pipe
+2014-06-19 00:16:35,325 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-19 00:16:35,325 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-19 00:16:35,786 (pyhpfeeds) info message name: hpfriends, rand: 'P\xc4\x84\x90'
+2014-06-19 01:10:16,378 (glastopf.glastopf) 107.170.172.130 requested GET /vtigercrm/ on ip-10-239-45-35.ec2.internal:80
+2014-06-19 02:12:26,804 (glastopf.glastopf) 80.82.70.112 requested GET http://z.nixipdb.com/ on ip-10-239-45-35.ec2.internal:80
+2014-06-19 02:12:26,861 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-19 02:12:26,861 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-19 02:12:26,862 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-19 02:12:27,357 (pyhpfeeds) info message name: hpfriends, rand: '\\\xb2\xb4\xdf'
+2014-06-19 03:13:00,185 (glastopf.glastopf) 95.181.59.22 requested GET /HNAP1/ on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:19:53,140 (glastopf.glastopf) 54.242.171.249 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:19:53,195 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-19 08:19:53,195 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-19 08:19:53,196 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-19 08:19:53,745 (pyhpfeeds) info message name: hpfriends, rand: '\xfeo\xb2\x8a'
+2014-06-19 08:58:47,278 (glastopf.glastopf) 123.125.219.67 requested GET /phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:58:48,006 (glastopf.glastopf) 123.125.219.67 requested GET /pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:58:48,698 (glastopf.glastopf) 123.125.219.67 requested GET /myadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:59:10,539 (glastopf.glastopf) 123.125.219.67 requested GET /phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:59:11,267 (glastopf.glastopf) 123.125.219.67 requested GET /phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:59:11,959 (glastopf.glastopf) 123.125.219.67 requested GET /pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:59:12,651 (glastopf.glastopf) 123.125.219.67 requested GET /myadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 08:59:13,345 (glastopf.glastopf) 123.125.219.67 requested GET /MyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-19 10:23:54,821 (glastopf.glastopf) 220.181.51.141 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-19 10:23:54,893 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-19 10:23:54,894 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-19 10:23:54,894 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-19 10:23:55,317 (pyhpfeeds) info message name: hpfriends, rand: 'Brq\xe5'
+2014-06-19 10:23:55,639 (glastopf.glastopf) 220.181.51.145 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-19 16:37:55,277 (glastopf.glastopf) 173.244.206.19 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-19 16:37:55,359 (pyhpfeeds) Socket error: [Errno 32] Broken pipe
+2014-06-19 16:37:55,359 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-19 16:37:55,360 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-19 16:37:55,815 (pyhpfeeds) info message name: hpfriends, rand: '\x83\xb1,\x8f'
+2014-06-19 19:40:20,117 (glastopf.glastopf) 93.174.93.218 requested GET http://proxyjudge.info on ip-10-239-45-35.ec2.internal:80
+2014-06-19 19:40:20,164 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-19 19:40:20,164 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-19 19:40:20,164 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-19 19:40:20,636 (pyhpfeeds) info message name: hpfriends, rand: '/z\x14\xdc'

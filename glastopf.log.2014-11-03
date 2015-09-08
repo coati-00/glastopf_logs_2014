@@ -1,0 +1,16 @@
+2014-11-03 08:04:57,345 (glastopf.glastopf) 98.191.181.231 requested GET /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-03 08:04:57,423 (pyhpfeeds) Socket error: [Errno 32] Broken pipe
+2014-11-03 08:04:57,424 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-03 08:04:57,424 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-03 08:04:57,527 (glastopf.glastopf) 98.191.181.231 requested POST /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-03 08:04:57,857 (pyhpfeeds) info message name: hpfriends, rand: '\x01\xc2\xe7\xb4'
+2014-11-03 08:44:57,344 (glastopf.glastopf) 123.249.19.23 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-11-03 09:12:15,538 (glastopf.glastopf) 54.162.196.30 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-11-03 10:07:42,282 (glastopf.glastopf) 117.21.173.27 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-11-03 10:09:38,217 (glastopf.glastopf) 178.156.228.189 requested GET /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-03 10:09:38,533 (glastopf.glastopf) 178.156.228.189 requested POST /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-03 15:19:23,569 (glastopf.glastopf) 89.238.156.130 requested GET /doc/page/login.asp on ip-10-239-45-35.ec2.internal:80
+2014-11-03 15:19:23,632 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-03 15:19:23,632 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-03 15:19:23,632 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-03 15:19:24,082 (pyhpfeeds) info message name: hpfriends, rand: 'J\x91\\\xcd'

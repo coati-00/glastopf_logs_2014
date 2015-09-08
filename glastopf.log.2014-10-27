@@ -1,0 +1,25 @@
+2014-10-27 06:49:37,369 (glastopf.glastopf) 117.21.173.27 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-10-27 06:49:37,447 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-27 06:49:37,448 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-27 06:49:37,448 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-27 06:49:37,940 (pyhpfeeds) info message name: hpfriends, rand: '\x1c\x99m\xfe'
+2014-10-27 08:57:18,635 (glastopf.glastopf) 117.21.225.165 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-10-27 08:57:18,782 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-27 08:57:18,782 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-27 08:57:18,783 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-27 08:57:19,246 (pyhpfeeds) info message name: hpfriends, rand: '\xc9\x98\x8c\xc4'
+2014-10-27 12:19:42,182 (glastopf.glastopf) 62.162.93.13 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-10-27 12:19:42,267 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-27 12:19:42,268 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-27 12:19:42,268 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-27 12:19:42,713 (pyhpfeeds) info message name: hpfriends, rand: '\xf3\x16^\xc0'
+2014-10-27 23:08:41,509 (glastopf.glastopf) 186.95.137.93 requested GET /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-10-27 23:08:41,551 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-27 23:08:41,552 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-27 23:08:41,552 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-27 23:08:41,774 (glastopf.glastopf) 186.95.137.93 requested POST /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-10-27 23:08:42,073 (pyhpfeeds) info message name: hpfriends, rand: '7uX\x84'
+2014-10-27 23:39:06,483 (glastopf.glastopf) 65.99.238.246 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-10-27 23:39:06,582 (glastopf.glastopf) 65.99.238.246 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-10-27 23:39:06,784 (glastopf.glastopf) 65.99.238.246 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-10-27 23:39:07,983 (glastopf.glastopf) 65.99.238.246 requested GET /cgi-mod/index.cgi on ip-10-239-45-35.ec2.internal:80

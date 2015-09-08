@@ -1,0 +1,88 @@
+2014-06-04 04:12:18,339 (glastopf.glastopf) 109.91.170.175 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-04 04:12:18,413 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-04 04:12:18,413 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-04 04:12:18,413 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-04 04:12:18,846 (pyhpfeeds) info message name: hpfriends, rand: '\xb6\xddz\xb3'
+2014-06-04 07:23:56,234 (glastopf.glastopf) 54.198.54.168 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-04 07:23:56,321 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-04 07:23:56,321 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-04 07:23:56,321 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-04 07:23:56,751 (pyhpfeeds) info message name: hpfriends, rand: '8_\x87\xc7'
+2014-06-04 08:48:45,259 (glastopf.glastopf) 61.135.190.69 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-04 08:48:45,295 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-04 08:48:45,295 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-04 08:48:45,295 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-04 08:48:45,763 (pyhpfeeds) info message name: hpfriends, rand: '\xe2\xe0\xc2\xf1'
+2014-06-04 08:48:46,119 (glastopf.glastopf) 61.135.190.68 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-04 18:57:06,118 (glastopf.glastopf) 109.68.190.145 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-04 18:57:06,175 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-04 18:57:06,176 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-04 18:57:06,176 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-04 18:57:06,659 (pyhpfeeds) info message name: hpfriends, rand: '\xf01G\xfc'
+2014-06-04 19:19:46,275 (glastopf.glastopf) 95.169.186.200 requested GET /muieblackcat on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:46,584 (glastopf.glastopf) 95.169.186.200 requested GET //scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:46,955 (glastopf.glastopf) 95.169.186.200 requested GET //admin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:47,294 (glastopf.glastopf) 95.169.186.200 requested GET //admin/pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:47,617 (glastopf.glastopf) 95.169.186.200 requested GET //admin/phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:47,914 (glastopf.glastopf) 95.169.186.200 requested GET //db/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:48,215 (glastopf.glastopf) 95.169.186.200 requested GET //dbadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:48,514 (glastopf.glastopf) 95.169.186.200 requested GET //myadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:48,815 (glastopf.glastopf) 95.169.186.200 requested GET //mysql/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:49,119 (glastopf.glastopf) 95.169.186.200 requested GET //mysqladmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:49,420 (glastopf.glastopf) 95.169.186.200 requested GET //typo3/phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:49,719 (glastopf.glastopf) 95.169.186.200 requested GET //phpadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:50,017 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:50,316 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:50,615 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin1/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:50,917 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin2/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:51,212 (glastopf.glastopf) 95.169.186.200 requested GET //pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:51,515 (glastopf.glastopf) 95.169.186.200 requested GET //web/phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:51,819 (glastopf.glastopf) 95.169.186.200 requested GET //xampp/phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:52,123 (glastopf.glastopf) 95.169.186.200 requested GET //web/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:52,425 (glastopf.glastopf) 95.169.186.200 requested GET //php-my-admin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:52,725 (glastopf.glastopf) 95.169.186.200 requested GET //websql/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:53,022 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:53,319 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:53,619 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin-2/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:53,927 (glastopf.glastopf) 95.169.186.200 requested GET //php-my-admin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:54,231 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin-2.5.5/index.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:19:54,535 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin-2.5.5-pl1/index.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:04,376 (glastopf.glastopf) 95.169.186.200 requested GET /muieblackcat on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:04,721 (glastopf.glastopf) 95.169.186.200 requested GET //scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:05,037 (glastopf.glastopf) 95.169.186.200 requested GET //admin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:05,360 (glastopf.glastopf) 95.169.186.200 requested GET //admin/pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:05,670 (glastopf.glastopf) 95.169.186.200 requested GET //admin/phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:05,968 (glastopf.glastopf) 95.169.186.200 requested GET //db/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:06,269 (glastopf.glastopf) 95.169.186.200 requested GET //dbadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:06,567 (glastopf.glastopf) 95.169.186.200 requested GET //myadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:06,876 (glastopf.glastopf) 95.169.186.200 requested GET //mysql/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:08,374 (glastopf.glastopf) 95.169.186.200 requested GET //mysqladmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:08,674 (glastopf.glastopf) 95.169.186.200 requested GET //typo3/phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:08,979 (glastopf.glastopf) 95.169.186.200 requested GET //phpadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:09,280 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:09,578 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:09,877 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin1/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:10,174 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin2/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:10,471 (glastopf.glastopf) 95.169.186.200 requested GET //pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:10,768 (glastopf.glastopf) 95.169.186.200 requested GET //web/phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:11,066 (glastopf.glastopf) 95.169.186.200 requested GET //xampp/phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:11,367 (glastopf.glastopf) 95.169.186.200 requested GET //web/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:11,666 (glastopf.glastopf) 95.169.186.200 requested GET //php-my-admin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:11,968 (glastopf.glastopf) 95.169.186.200 requested GET //websql/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:12,270 (glastopf.glastopf) 95.169.186.200 requested GET //phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:12,568 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:12,867 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin-2/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:13,171 (glastopf.glastopf) 95.169.186.200 requested GET //php-my-admin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:13,470 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin-2.5.5/index.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 19:22:13,772 (glastopf.glastopf) 95.169.186.200 requested GET //phpMyAdmin-2.5.5-pl1/index.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 20:00:39,160 (glastopf.glastopf) 173.244.206.13 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-04 21:24:23,356 (glastopf.glastopf) 110.77.229.123 requested GET /phpTest/zologize/axa.php on ip-10-239-45-35.ec2.internal:80
+2014-06-04 21:24:23,415 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-04 21:24:23,416 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-04 21:24:23,416 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-04 21:24:24,012 (pyhpfeeds) info message name: hpfriends, rand: '\x03\xd5\x80\x85'
+2014-06-04 23:47:57,442 (glastopf.glastopf) 54.82.251.208 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-04 23:47:57,511 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-04 23:47:57,512 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-04 23:47:57,512 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-04 23:47:57,918 (pyhpfeeds) info message name: hpfriends, rand: '\xa82q\xc2'

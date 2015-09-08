@@ -1,0 +1,23 @@
+2014-06-21 02:02:49,583 (glastopf.glastopf) 220.181.51.148 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-21 02:02:49,623 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-21 02:02:49,624 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-21 02:02:49,624 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-21 02:02:50,095 (pyhpfeeds) info message name: hpfriends, rand: '\xa4f"\xf6'
+2014-06-21 02:02:50,666 (glastopf.glastopf) 220.181.51.143 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-21 16:49:52,699 (glastopf.glastopf) 54.224.88.181 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-21 16:49:52,799 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-21 16:49:52,799 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-21 16:49:52,800 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-21 16:49:53,282 (pyhpfeeds) info message name: hpfriends, rand: '\xef\xa1*\xa5'
+2014-06-21 18:55:14,218 (glastopf.glastopf) 220.181.51.149 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-21 18:55:14,325 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-21 18:55:14,325 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-21 18:55:14,325 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-21 18:55:14,753 (pyhpfeeds) info message name: hpfriends, rand: '\xf0\x85\xc5\xc6'
+2014-06-21 18:55:15,604 (glastopf.glastopf) 220.181.51.136 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-21 21:24:03,598 (glastopf.glastopf) 193.107.16.183 requested GET /include/shell.php?x=x on ip-10-239-45-35.ec2.internal:80
+2014-06-21 21:24:03,675 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-21 21:24:03,676 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-21 21:24:03,676 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-21 21:24:04,203 (pyhpfeeds) info message name: hpfriends, rand: '\xccg\xb3\x98'
+2014-06-21 21:55:55,032 (glastopf.glastopf) 79.118.105.168 requested GET /HNAP1/ on ip-10-239-45-35.ec2.internal:80

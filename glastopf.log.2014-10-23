@@ -1,0 +1,24 @@
+2014-10-23 02:16:55,624 (glastopf.glastopf) 54.166.227.65 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-10-23 02:16:55,698 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-23 02:16:55,698 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-23 02:16:55,699 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-23 02:16:56,197 (pyhpfeeds) info message name: hpfriends, rand: '=\xf3\xdf\x9a'
+2014-10-23 04:11:49,801 (glastopf.glastopf) 93.174.93.218 requested GET http://httpheader.net on ip-10-239-45-35.ec2.internal:80
+2014-10-23 04:11:49,887 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-23 04:11:49,887 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-23 04:11:49,887 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-23 04:11:50,346 (pyhpfeeds) info message name: hpfriends, rand: '\x19x\xc8\xd5'
+2014-10-23 04:48:03,460 (glastopf.glastopf) 117.21.225.165 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-10-23 08:31:33,476 (glastopf.glastopf) 117.21.173.27 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-10-23 08:31:33,565 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-23 08:31:33,566 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-23 08:31:33,566 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-23 08:31:34,096 (pyhpfeeds) info message name: hpfriends, rand: '\x1e\xe3\xc0\xbe'
+2014-10-23 21:49:21,088 (glastopf.glastopf) 76.102.26.239 requested GET /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-10-23 21:49:21,159 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-23 21:49:21,159 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-23 21:49:21,160 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-23 21:49:21,323 (glastopf.glastopf) 76.102.26.239 requested POST /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-10-23 21:49:21,742 (pyhpfeeds) info message name: hpfriends, rand: 'Zr\xb4\xfb'
+2014-10-23 21:50:40,942 (glastopf.glastopf) 80.82.78.87 requested GET /admin/config.php on ip-10-239-45-35.ec2.internal:80
+2014-10-23 22:15:10,714 (glastopf.glastopf) 117.21.191.206 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80

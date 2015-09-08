@@ -1,0 +1,23 @@
+2014-11-16 00:19:54,225 (glastopf.glastopf) 117.21.173.27 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-11-16 00:19:54,345 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-16 00:19:54,345 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-16 00:19:54,345 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-16 00:19:54,767 (pyhpfeeds) info message name: hpfriends, rand: '\xa0 |\xe6'
+2014-11-16 00:32:07,900 (glastopf.glastopf) 183.60.48.25 requested GET http://www.baidu.com/ on ip-10-239-45-35.ec2.internal:80
+2014-11-16 00:37:01,504 (glastopf.glastopf) 94.102.63.155 requested GET /cgi-bin-sdb/printenv on ip-10-239-45-35.ec2.internal:80
+2014-11-16 01:17:22,969 (glastopf.glastopf) 117.21.225.131 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-11-16 04:45:24,660 (glastopf.glastopf) 64.95.98.210 requested GET /phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-11-16 04:45:24,716 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-16 04:45:24,716 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-16 04:45:24,716 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-16 04:45:25,150 (pyhpfeeds) info message name: hpfriends, rand: '1\xceE\x8e'
+2014-11-16 07:07:27,946 (glastopf.glastopf) 95.211.168.135 requested GET /o/ on ip-10-239-45-35.ec2.internal:80
+2014-11-16 07:07:27,992 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-16 07:07:27,992 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-16 07:07:27,992 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-16 07:07:28,424 (pyhpfeeds) info message name: hpfriends, rand: 'gu\xd5\xb6'
+2014-11-16 16:14:32,758 (glastopf.glastopf) 198.23.149.154 requested GET /xmlrpc.php on ip-10-239-45-35.ec2.internal:80
+2014-11-16 16:14:32,822 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-16 16:14:32,822 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-16 16:14:32,822 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-16 16:14:33,317 (pyhpfeeds) info message name: hpfriends, rand: '\xbeE\x05\xf9'

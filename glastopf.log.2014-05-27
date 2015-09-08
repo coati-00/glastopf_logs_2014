@@ -1,0 +1,31 @@
+2014-05-27 08:11:43,434 (glastopf.glastopf) 220.181.51.138 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-05-27 08:11:43,511 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-05-27 08:11:43,511 (pyhpfeeds) Disconnected from broker (in publish).
+2014-05-27 08:11:43,512 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-05-27 08:11:44,156 (glastopf.glastopf) 220.181.51.148 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-05-27 08:11:44,188 (pyhpfeeds) info message name: hpfriends, rand: '\xadI\x8b\xfb'
+2014-05-27 17:01:28,792 (glastopf.glastopf) 93.120.27.62 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-05-27 17:01:28,867 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-05-27 17:01:28,868 (pyhpfeeds) Disconnected from broker (in publish).
+2014-05-27 17:01:28,868 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-05-27 17:01:29,223 (glastopf.glastopf) 93.120.27.62 requested GET /robots.txt on ip-10-239-45-35.ec2.internal:80
+2014-05-27 17:01:29,645 (pyhpfeeds) info message name: hpfriends, rand: 'x\xf7\x14\xeb'
+2014-05-27 17:01:44,410 (glastopf.glastopf) 93.120.27.62 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-05-27 18:23:40,545 (glastopf.glastopf) 54.80.226.50 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-05-27 18:23:40,635 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-05-27 18:23:40,636 (pyhpfeeds) Disconnected from broker (in publish).
+2014-05-27 18:23:40,636 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-05-27 18:23:41,096 (pyhpfeeds) info message name: hpfriends, rand: '\xfc\x93\xaa\x9f'
+2014-05-27 20:04:15,871 (glastopf.glastopf) 108.171.241.162 requested GET /vtigercrm/ on ip-10-239-45-35.ec2.internal:80
+2014-05-27 20:36:07,926 (glastopf.glastopf) 173.244.215.194 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-05-27 20:36:07,999 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-05-27 20:36:07,999 (pyhpfeeds) Disconnected from broker (in publish).
+2014-05-27 20:36:08,000 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-05-27 20:36:08,541 (pyhpfeeds) info message name: hpfriends, rand: '\xd9\xaa5\xe4'
+2014-05-27 23:15:17,972 (glastopf.glastopf) 61.135.190.72 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-05-27 23:15:18,038 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-05-27 23:15:18,038 (pyhpfeeds) Disconnected from broker (in publish).
+2014-05-27 23:15:18,038 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-05-27 23:15:18,476 (pyhpfeeds) info message name: hpfriends, rand: '\xed\x12\xfa\xf2'
+2014-05-27 23:15:18,728 (glastopf.glastopf) 61.135.190.72 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-05-27 23:42:40,810 (glastopf.glastopf) 54.76.116.182 requested GET / on ip-10-239-45-35.ec2.internal:80

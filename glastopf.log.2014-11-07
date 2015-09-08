@@ -1,0 +1,23 @@
+2014-11-07 06:15:07,000 (glastopf.glastopf) 117.21.173.27 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-11-07 06:15:07,113 (pyhpfeeds) Socket error: [Errno 32] Broken pipe
+2014-11-07 06:15:07,113 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-07 06:15:07,113 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-07 06:15:07,565 (pyhpfeeds) info message name: hpfriends, rand: '\x9a\x06\x07\xe7'
+2014-11-07 16:27:24,566 (glastopf.glastopf) 54.80.20.106 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-11-07 16:27:24,643 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-07 16:27:24,644 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-07 16:27:24,644 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-07 16:27:25,058 (pyhpfeeds) info message name: hpfriends, rand: '\xe9\xda\xd3\x8f'
+2014-11-07 19:09:34,115 (glastopf.glastopf) 80.82.64.29 requested GET /api/process.php on ip-10-239-45-35.ec2.internal:80
+2014-11-07 19:09:34,195 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-07 19:09:34,196 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-07 19:09:34,196 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-07 19:09:34,610 (pyhpfeeds) info message name: hpfriends, rand: 'jlG\xc4'
+2014-11-07 22:13:25,475 (glastopf.glastopf) 113.162.195.162 requested GET /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-07 22:13:25,515 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-07 22:13:25,515 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-07 22:13:25,516 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-07 22:13:25,971 (pyhpfeeds) info message name: hpfriends, rand: '\xfa\x81s\x95'
+2014-11-07 22:13:25,996 (glastopf.glastopf) 113.162.195.162 requested POST /tmUnblock.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-07 22:13:43,148 (glastopf.glastopf) 198.20.69.74 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-11-07 22:13:44,232 (glastopf.glastopf) 198.20.69.74 requested GET /robots.txt on ip-10-239-45-35.ec2.internal:80

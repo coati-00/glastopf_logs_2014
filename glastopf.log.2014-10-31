@@ -1,0 +1,11 @@
+2014-10-31 00:18:07,785 (glastopf.glastopf) 54.80.231.228 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-10-31 07:34:57,190 (glastopf.glastopf) 68.64.163.245 requested GET http://www.baidu.com/ on ip-10-239-45-35.ec2.internal:80
+2014-10-31 07:34:57,275 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-31 07:34:57,275 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-31 07:34:57,276 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-31 07:34:57,897 (pyhpfeeds) info message name: hpfriends, rand: '\x14\x8b\x8f\xe2'
+2014-10-31 17:36:29,357 (glastopf.glastopf) 192.3.196.113 requested GET /phppath/php on ip-10-239-45-35.ec2.internal:80
+2014-10-31 17:36:29,403 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-10-31 17:36:29,403 (pyhpfeeds) Disconnected from broker (in publish).
+2014-10-31 17:36:29,404 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-10-31 17:36:29,857 (pyhpfeeds) info message name: hpfriends, rand: '>\x8a`\xf4'

