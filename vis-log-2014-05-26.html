@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<style>
+
+text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+div.requests-by-method bar-chart {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+</style>
+<svg width="960" height="880"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+/* Log file fields seem to consist of 
+ * Date Time Number? Source
+ * If source is (pyhpfeeds) it is followed by a message
+ * If the source is (glastopf.glastopf) it is followed
+ * by an IP request method, the request, and what ip it came from
+ 2014-05-26 00:48:09,740 (glastopf.glastopf) 66.85.140.110 requested GET / on ip-10-239-45-35.ec2.internal:80
+ *
+ * So... I'm gonna do a first graph/diagram for (glastopf.glastopf) first
+ * - first a chart for the request type
+ * - second for file requested
+ * - third for ips internal vs external and location they are supposedly from
+ */
+ 
+var svg = d3.select("svg"),
+    width = +svg.attr("width");
+
+var format = d3.format(",d");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20c);
+
+var pack = d3.pack()
+    .size([width, width])
+    .padding(1.5);
+
+
+d3.text("http://raw.githubusercontent.com/coati-00/glastopf_logs_2014/master/glastopf.log.2014-05-26", function(d) {
+	  console.log(d);
+	  var data_rows = d.split("\n");
+	  console.log("BETWEEN OUTPUTS");
+	  var glastopf_lines = 0;
+	  var pyhpfeeds_lines = 0;
+
+	  for (row = 0; row < data_rows.length; row++)
+	  {
+		  var row_vars = data_rows[row].split(" ");
+		  console.log(row_vars);
+		  console.log(row_vars[2]);
+		  /* First for simplicity get pyhpfeeds vs glastopf.glastopf */
+		  if (row_vars[2] == "(glastopf.glastopf)")
+		  {
+			  //console.log("(glastopf.glastopf)");
+		  }
+		  if (row_vars[2] == "(pyhpfeeds)")
+		  {
+			  //console.log("(pyhpfeeds)");
+		  }
+	  }
+	  
+	  var node = svg.selectAll("svg")
+	    .data(pack(root).leaves())
+	    .enter().append("g")
+	      .attr("class", "node")
+	      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+	  
+	  console.log(node);
+	  
+	  
+	  
+	  
+	  return d;
+	}, function(error, classes) {
+	  if (error) throw error;
+
+	});
+
+</script>
+</head>
+<body>
+
+
+</body>
+</html>
