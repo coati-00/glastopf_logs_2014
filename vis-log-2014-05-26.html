@@ -3,19 +3,17 @@
 <meta charset="utf-8">
 <style>
 
-text {
-  font: 10px sans-serif;
-  text-anchor: middle;
+
+.bar-chart rect {
+  fill: steelblue;
 }
 
-div.requests-by-method bar-chart {
+.bar-chart text {
+  fill: white;
   font: 10px sans-serif;
-  background-color: steelblue;
-  text-align: right;
-  padding: 3px;
-  margin: 1px;
-  color: white;
+  text-anchor: end;
 }
+
 
 </style>
 <svg width="960" height="880"></svg>
@@ -37,14 +35,6 @@ div.requests-by-method bar-chart {
 var svg = d3.select("svg"),
     width = +svg.attr("width");
 
-var format = d3.format(",d");
-
-var color = d3.scaleOrdinal(d3.schemeCategory20c);
-
-var pack = d3.pack()
-    .size([width, width])
-    .padding(1.5);
-
 
 d3.text("http://raw.githubusercontent.com/coati-00/glastopf_logs_2014/master/glastopf.log.2014-05-26", function(d) {
 	  console.log(d);
@@ -56,28 +46,55 @@ d3.text("http://raw.githubusercontent.com/coati-00/glastopf_logs_2014/master/gla
 	  for (row = 0; row < data_rows.length; row++)
 	  {
 		  var row_vars = data_rows[row].split(" ");
-		  console.log(row_vars);
-		  console.log(row_vars[2]);
+
 		  /* First for simplicity get pyhpfeeds vs glastopf.glastopf */
 		  if (row_vars[2] == "(glastopf.glastopf)")
 		  {
 			  //console.log("(glastopf.glastopf)");
+			  glastopf_lines = glastopf_lines + 1;
 		  }
 		  if (row_vars[2] == "(pyhpfeeds)")
 		  {
 			  //console.log("(pyhpfeeds)");
+			  pyhpfeeds_lines = pyhpfeeds_lines + 1;
 		  }
 	  }
 	  
-	  var node = svg.selectAll("svg")
-	    .data(pack(root).leaves())
-	    .enter().append("g")
-	      .attr("class", "node")
-	      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 	  
-	  console.log(node);
+	  var width = 420,
+	      barHeight = 20;
+	  var data = [glastopf_lines, pyhpfeeds_lines];
+	  console.log(data);
+	  
+	  var x = d3.scaleLinear()
+	    .domain([0, d3.max(data)])
+	    .range([0, width]);
+
 	  
 	  
+	  var chart = d3.select(".barchart")
+	      .attr("width", width)
+	      .attr("height", barHeight * data.length);
+	  var bar = chart.selectAll("g")
+	      .data(data)
+	      .enter().append("g")
+	      .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
+	  bar.append("rect")
+	      .attr("width", x)
+	      .attr("height", barHeight - 1);
+
+	  bar.append("text")
+	      .attr("x", function(d) { return x(d) - 3; })
+	      .attr("y", barHeight / 2)
+	      .attr("dy", ".35em")
+	      .text(function(d) { return d; });
+	
+	
+// 	  .selectAll("div")
+// 	    .data(data)
+// 	  .enter().append("div")
+// 	    .style("width", function(d) { return x(d) + "px"; })
+// 	    .text(function(d) { return d; });  
 	  
 	  
 	  return d;
@@ -89,7 +106,8 @@ d3.text("http://raw.githubusercontent.com/coati-00/glastopf_logs_2014/master/gla
 </script>
 </head>
 <body>
-
-
+  <div class="bar-chart"></div>
+  <div></div>
+  <div></div>
 </body>
 </html>
